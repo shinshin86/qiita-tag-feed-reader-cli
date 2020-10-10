@@ -27,5 +27,5 @@ qiita-tag-feed-reader-cli セキュリティ
 When running without arguments, there are 100 tags that can be selected at random, in order of frequency of use.
 However, these tags were obtained in advance using Qiita's API at the time of implementation, So they do not reflect the latest state at runtime.
 
-100 tags are maintained `./tag/list.go`.
+100 tags are maintained [here](https://github.com/shinshin86/qiita-tag-feed-reader-cli/blob/main/tag/list.go).
 
