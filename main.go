@@ -61,7 +61,7 @@ func (f FeedItem) displayContent() string {
 }
 
 func removeHTMLTag(html string) string {
-	const pattern = `(<\/?[a-zA-A]+?[^>]*\/?>)*`
+	const pattern = `(<\/?[a-zA-A!-]+?[^>]*\/?>)*`
 	r := regexp.MustCompile(pattern)
 	groups := r.FindAllString(html, -1)
 
