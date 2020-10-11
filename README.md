@@ -2,6 +2,8 @@
 
 It is a tool for retrieving posts from [Qiita](https://qiita.com) that are tied to a specific tag in the CLI.
 
+![Gif demo](./gif/demo.gif)
+
 
 
 ## Usage
