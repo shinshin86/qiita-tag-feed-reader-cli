@@ -1,5 +1,7 @@
 # qiita-tag-feed-reader-cli
 
+[![Build Status](https://travis-ci.org/shinshin86/qiita-tag-feed-reader-cli.svg?branch=main)](https://travis-ci.org/shinshin86/qiita-tag-feed-reader-cli)
+
 It is a tool for retrieving posts from [Qiita](https://qiita.com) that are tied to a specific tag in the CLI.
 
 ![Gif demo](./gif/demo.gif)
